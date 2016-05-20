@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="extjwnla">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/src/extjwnl/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

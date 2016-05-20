@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="extjwnl">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/doc/apidocs/extjwnl" />
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/doc/apidocs/utilities" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/src/extjwnl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/src/extjwnl/src/test/java" />
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/src/utilities/src/main/java" />
+      <root url="file://$PROJECT_DIR$/extjwnl-1.9/src/utilities/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

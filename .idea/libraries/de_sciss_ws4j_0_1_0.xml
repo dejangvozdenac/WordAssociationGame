@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="de.sciss:ws4j:0.1.0" type="repository">
+    <properties maven-id="de.sciss:ws4j:0.1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ws4j-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jawjaw-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/ws4j-0.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/ws4j-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
